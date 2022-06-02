@@ -1,0 +1,31 @@
+---
+project-repositories:
+- name: "web"
+  description: "Hello, World RESTful web service."
+  url: "https://github.com/rd-1-2022/rpt-rest-service"
+  tags:
+  - "rest"
+  - "web"
+- name: "jpa"
+  description: "Learn how to work with JPA data persistence using Spring Data JPA."
+  url: "https://github.com/rd-1-2022/rpt-spring-data-jpa"
+  tags:
+  - "jpa"
+  - "h2"
+- name: "eureka"
+  description: "Spring Cloud Eureka Server"
+  url: "https://github.com/rd-1-2022/eureka"
+  tags:
+  - "cloud"
+  - "eureka"
+- name: "config-client"
+  description: "Spring Config client"
+  url: "https://github.com/rd-1-2022/gs-centralized-configuration/tree/main/complete/configuration-client"
+  tags:
+  - "cloud"
+  - "config"
+- name: "scheduling"
+  description: "Scheduling Tasks"
+  url: "https://github.com/rd-1-2022/rpt-spring-scheduling-tasks"
+  tags:
+  - "scheduling"
