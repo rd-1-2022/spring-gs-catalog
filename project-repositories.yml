@@ -18,8 +18,4 @@ project-repositories:
   tags:
   - "cloud"
   - "eureka"
-- name: "scheduling"
-  description: "Scheduling Tasks"
-  url: "https://github.com/rd-1-2022/rpt-spring-scheduling-tasks"
-  tags:
-  - "scheduling"
+
