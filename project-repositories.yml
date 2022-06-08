@@ -12,6 +12,16 @@ project-repositories:
   tags:
   - "jpa"
   - "h2"
+- name: "scheduling"
+  description: "How to schedule tasks"
+  url: "https://github.com/rd-1-2022/rpt-spring-scheduling-tasks"
+  tags:
+  - "scheduling"
+- name: "config-client"
+  description: "Using the Config Client library"
+  url: "https://github.com/rd-1-2022/rpt-config-client"
+  tags:
+  - "config"  
 - name: "eureka"
   description: "Spring Cloud Eureka Server"
   url: "https://github.com/rd-1-2022/eureka"
