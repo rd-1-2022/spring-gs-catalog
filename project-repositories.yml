@@ -28,4 +28,12 @@ project-repositories:
   tags:
   - "cloud"
   - "eureka"
+- name "graphql"
+  description: "Spring GraphQL"
+  url: "https://github.com/rd-1-2022/rpt-spring-data-jpa"
+  tags:
+  - "java-17"
+  - "boot-2.7"
+  - "graphql"
+
 
