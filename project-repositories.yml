@@ -2,8 +2,9 @@
 project-repositories:
 - name: "web"
   description: "Hello, World RESTful web service."
-  url: "https://github.com/rd-1-2022/rpt-rest-service"
+  url: "https://github.com/rd-1-2022/rest-service"
   tags:
+  - "boot 2.7.x"
   - "rest"
   - "web"
 - name: "jpa"
