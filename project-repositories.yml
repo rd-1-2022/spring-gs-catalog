@@ -4,13 +4,16 @@ project-repositories:
   description: "Hello, World RESTful web service."
   url: "https://github.com/rd-1-2022/rest-service"
   tags:
-  - "boot 2.7.x"
+  - "java-17"
+  - "boot-3.1.x"
   - "rest"
   - "web"
 - name: "jpa"
   description: "Learn how to work with JPA data persistence using Spring Data JPA."
   url: "https://github.com/rd-1-2022/rpt-spring-data-jpa"
   tags:
+  - "java-17"
+  - "boot-3.1.x"  
   - "jpa"
   - "h2"
 - name: "scheduling"
@@ -22,11 +25,15 @@ project-repositories:
   description: "Using the Config Client library"
   url: "https://github.com/rd-1-2022/rpt-config-client"
   tags:
+  - "java-17"
+  - "boot-3.1.x"  
   - "config"  
 - name: "eureka"
   description: "Spring Cloud Eureka Server"
   url: "https://github.com/rd-1-2022/eureka"
   tags:
+  - "java-17"
+  - "boot-3.1.x"  
   - "cloud"
   - "eureka"
 - name: "graphql"
@@ -34,7 +41,7 @@ project-repositories:
   url: "https://github.com/rd-1-2022/rpt-spring-graphql"
   tags:
   - "java-17"
-  - "boot-2.7"
+  - "boot-3.1.x"
   - "graphql"
 
 
