@@ -43,5 +43,27 @@ project-repositories:
   - "java-17"
   - "boot-3.1.x"
   - "graphql"
-
-
+- name: "scs-source"
+  description: "Spring Cloud Stream Source"
+  url: "https://github.com/rd-1-2022/scs-source"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "stream"
+  - "rabbitmq"
+- name: "scs-processor"
+  description: "Spring Cloud Stream Processor"
+  url: "https://github.com/rd-1-2022/scs-processor"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "stream"
+  - "rabbitmq"
+- name: "scs-sink"
+  description: "Spring Cloud Stream Sink"
+  url: "https://github.com/rd-1-2022/scs-sink"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "stream"
+  - "rabbitmq"
