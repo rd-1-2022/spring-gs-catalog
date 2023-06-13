@@ -43,6 +43,13 @@ project-repositories:
   - "java-17"
   - "boot-3.1.x"
   - "graphql"
+- name: "modulith"
+  description: "Spring Moduliths"
+  url: "https://github.com/rd-1-2022/modulith-simple"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "modulith"
 - name: "scs-source"
   description: "Spring Cloud Stream Source"
   url: "https://github.com/rd-1-2022/scs-source"
