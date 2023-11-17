@@ -91,3 +91,10 @@ project-repositories:
   - "ai"
   - "openai"  
   - "azure"
+- name: "multi-module"
+  description: "Multi Module Spring Application with AsciiDoc"
+  url: "https://github.com/rd-1-2022/spring-multi-module-project"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  
