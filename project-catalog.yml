@@ -95,7 +95,7 @@ project-repositories:
   url: "https://github.com/rd-1-2022/ai-azure-openai-helloworld"
   tags:
   - "java-17"
-  - "boot-3.1.x"
+  - "boot-3.2.x"
   - "ai"
   - "openai"  
   - "azure"
